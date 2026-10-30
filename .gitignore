@@ -41,3 +41,8 @@ dist/
 # Windows files
 Thumbs.db
 Desktop.ini
+
+# Superseded exploratory reports (older accounting methodology)
+/reports/fair_volatility_experiment.csv
+/reports/sma_confirmation_experiment.csv
+/reports/sma_parameter_comparison.csv
