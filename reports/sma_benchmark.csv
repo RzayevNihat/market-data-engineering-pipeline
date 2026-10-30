@@ -1,0 +1,4 @@
+implementation,rows,window,repeats,avg_seconds,rows_per_second,observed_peak_rss_increase_mb,correctness_checked_against_pandas
+numba_jit,1000000,60,5,0.0016965599992545322,589428019.309308,0.0,True
+numpy_cumsum,1000000,60,5,0.007503120000183117,133277889.72795245,7.65234375,True
+pandas_rolling,1000000,60,5,0.013861720000568312,72141119.56950518,15.3125,True

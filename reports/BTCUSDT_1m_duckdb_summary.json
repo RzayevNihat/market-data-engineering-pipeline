@@ -1,0 +1,11 @@
+{
+  "candle_count": 259201,
+  "first_candle_utc": "2026-05-03T08:53:00+00:00",
+  "last_candle_utc": "2026-10-30T08:53:00+00:00",
+  "average_close": 72765.98163061963,
+  "close_stddev": 8595.20700729351,
+  "period_low": 57800.19,
+  "period_high": 87395.67,
+  "total_base_volume": 2900374.609059953,
+  "total_trades": 536914905
+}

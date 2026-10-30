@@ -1,0 +1,13 @@
+{
+  "bars": 259201,
+  "total_return": -0.9314801309991262,
+  "max_drawdown": -0.9332050250152257,
+  "positive_return_bars": 60181,
+  "negative_return_bars": 66299,
+  "assumed_one_way_cost_bps": 5,
+  "cost_model": "multiplicative_per_position_change",
+  "transaction_cost_events": 5170,
+  "terminal_liquidation": false,
+  "strategy_note": "Educational moving-average example only; not an investment strategy or trading recommendation.",
+  "lookahead_note": "Signal is shifted by one candle before it is applied to returns."
+}
